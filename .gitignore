@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+.pytest_cache/
+
+# крупные артефакты прогона (образец result.xlsx коммитим)
+data/full.xlsx
